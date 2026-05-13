@@ -116,26 +116,6 @@ Processes microphone audio input and returns:
 
 ---
 
-## Project Structure
-
-```text id="jlwmv3"
-ai-voice-assistant/
-│
-├── app/
-│   ├── main.py
-│   ├── stt/
-│   ├── llm/
-│   ├── tts/
-│   └── frontend/
-│
-├── uploads/
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
-
----
-
 ## Installation
 
 ### Clone Repository
@@ -224,7 +204,5 @@ http://127.0.0.1:8000/docs
 
 ## Author
 
-*  Haris Faheem
-*  AI / LLM Engineer
 Haris Faheem
 AI / LLM Engineer
