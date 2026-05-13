@@ -24,8 +24,7 @@ This system accepts voice input, performs speech-to-text transcription using Whi
 * Whisper
 * Ollama
 * Llama 3
-* FAISS (upcoming)
-* Streamlit (upcoming)
+* Streamlit
 
 ---
 
